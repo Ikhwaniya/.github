@@ -1,4 +1,4 @@
-# Ikhwaniya
+# Ikhwaniya / إخوانية
 
 As-salamu alaykum wa rahtmatallahi wa barakatuh
 
@@ -13,3 +13,5 @@ Ikhwaniya is a organization dedicated to the construction of uniting Muslim prog
 ---
 
 If you have any ideas for projects and wish to discuss projects an ideas, please do so [here](https://github.com/orgs/Ikhwaniya/discussions).
+
+Other languages: [العربية](https://github.com/Ikhwaniya/.github/blob/main/readme_translations/arabic.md)
