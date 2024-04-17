@@ -8,7 +8,7 @@ Ikhwaniya is a organization dedicated to the construction of uniting Muslim prog
 - Fighting against Islamaphobic propaganda in the mainstream and unfair bias against Muslims in the media
 - Pushing Dawah and spreading the message of Islam and assisting our brothers and sisters in pursuit of pushing Dawah by providing necessary resources
 - Creating Sharia-compliant alternatives to convenient applications
-- Pushing for use of Open Source applications in the Ummah to avoid control from non-Islamic and fortune 500 organizations who care only about their own wealth and not the people
+- Pushing for use of Open Source applications in the Ummah to avoid control from non-Islamic and fortune 500 organizations who care only about their own wealth and not the people's wellbeing
 
 ---
 
